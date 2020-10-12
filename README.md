@@ -7,7 +7,8 @@ Once I had completed enough Pytorch such that I felt comfortable moving over to 
 
 Once I had properly installed Pysyft, I spent some time reviewing the theory of federated learning (https://arxiv.org/pdf/1811.04017.pdf) was reccomended on openminded's git). As I stated in the first hack-a-thing, I felt like I jumped in too quickly without taking the requisite time to truly understand what I was doing. This time, I didn't make the same mistake.
 
-I then followed the first 5 tutorials on openminded's github page, learning how to run ML models from different virtual workers, and the PySyft syntax in general. I learned how to build a basic model.
+I then followed the first 5 tutorials on openminded's github page (https://github.com/OpenMined/PySyft/tree/master/examples/tutorials), learning how to run ML models from different virtual workers, and the PySyft syntax in general. I learned how to build a basic model.
+
 
 ## Who did what (if you worked with someone else)
 I worked alone - I felt that I would get more out of the exercise if all the code was produced by myself.
